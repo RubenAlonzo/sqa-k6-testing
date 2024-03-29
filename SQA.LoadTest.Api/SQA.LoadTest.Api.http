@@ -1,0 +1,6 @@
+@SQA.LoadTest.Api_HostAddress = https://localhost:7292
+
+GET {{SQA.LoadTest.Api_HostAddress}}/string/reverse?input=AQS%C2%A0dlrow%C2%A0olleh
+Accept: application/json
+
+###
